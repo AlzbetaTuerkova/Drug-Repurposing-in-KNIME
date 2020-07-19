@@ -16,7 +16,9 @@ paper in Journal of Cheminformatics.
 - a .pdf Tutorial file “Part 3: Integrative data mining of ligand bioactivity data from ChEMBL and PubChem”
 - a .pdf Tutorial file “Part 4: Substructure searches in DrugBank”
 - a .pdf file with Supplementary Information
-- an example input file (.tsv format). The updated file can be downloaded at Uniprot pre-release website available at
+- an example input file (.tsv format). 
+
+An updated input file can be downloaded at Uniprot pre-release website available at
 
 https://covid-19.uniprot.org/uniprotkb?query=*
 
