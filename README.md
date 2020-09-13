@@ -7,10 +7,10 @@ paper in Journal of Cheminformatics.
 
 
 - a .csv Supplementary file 1 with maximum common substructures in SMARTS detected via hierarchical scaffold clustering for COVID-19
-- a .csv Supplementary file 2 with identified hits from DrugBank for COVID-19
-- a .csv Supplementary file 3 with identified hits from CAS Dataset for COVID-19
-- a .csv  Supplementary file 4 with identified hits by both DrugBank and CAS Dataset for COVID-19
-- a .csv  Supplementary file 5 with identified hits in DrugBank for GLUT-1 Deficiency Syndrome
+- a .csv Supplementary file 2 with identified hits for COVID-19 from DrugBank
+- a .csv Supplementary file 3 with identified hits for COVID-19 from CAS Dataset
+- a .csv  Supplementary file 4 with identified hits for COVID-19 by both DrugBank and CAS Dataset
+- a .csv  Supplementary file 5 with identified hits for GLUT-1 Deficiency Syndrome in DrugBank
 - a .knwf Supplementary file with drug repurposing workflow
 - a .pdf Tutorial file “Part 1: Programmatic access to UniProt database using KNIME”
 - a .pdf Tutorial file “Part 2: Using cross-references to retrieve structural data from the Protein Data Bank (PDB)”
