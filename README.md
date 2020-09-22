@@ -14,10 +14,11 @@ As the drug-repurposing strategy applied here is mainly conceived for educationa
 - a .csv  Supplementary file 5 with identified hits for GLUT-1 Deficiency Syndrome in DrugBank
 - a .knwf Supplementary file with drug repurposing workflow ("DrugRepurposingPipeline_UniProt.knwf", external UniProt dataset is used as an input)
 - a .knwf Supplementary file with drug repurposing workflow ("DrugRepurposingPipeline_OpenTargets.knwf", disease-target associations from the OpenTarget platform are used an input)
-- a .pdf Tutorial file “Part 1: Programmatic access to UniProt database using KNIME”
-- a .pdf Tutorial file “Part 2: Using cross-references to retrieve structural data from the Protein Data Bank (PDB)”
-- a .pdf Tutorial file “Part 3: Integrative data mining of ligand bioactivity data from ChEMBL and PubChem”
-- a .pdf Tutorial file “Part 4: Substructure searches in DrugBank”
+- a .pdf/.docx Tutorial file “Part 1: Programmatic access to UniProt database using KNIME”
+- a .pdf/.docx Tutorial file “Part 2: Using cross-references to retrieve structural data from the Protein Data Bank (PDB)”
+- a .pdf/.docx Tutorial file “Part 3: Integrative data mining of ligand bioactivity data from ChEMBL and PubChem”
+- a .pdf/.docx Tutorial file “Part 4: Substructure searches in DrugBank”
+- a .pdf/.docx Tutorial file with the answer sheet
 - a .pdf file with Supplementary Information
 - an example input file (.tsv format). 
 
