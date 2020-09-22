@@ -26,3 +26,20 @@ An updated input file can be downloaded at Uniprot pre-release website available
 https://covid-19.uniprot.org/uniprotkb?query=*
 
 
+
+Expected time of execution of the individual workflow components (expemplified on COVID-19 use case):
+
+1) Open Target ID to UniProt ID mapping: max. 20 sec
+2) Retrieval of protein-ligand structural data from the Protein Data Bank: max. 30 min
+3) Fetching ligand bioactivity data from open bioactivity data sources via programmatic data access    
+      ChEMBL: max. 30 min
+      PubCHem: ~ 2 hours
+      IUPHAR: max. 10 min
+
+4) Substructure searches to identify potentially interesting compounds for drug repurposing 
+      Generation of Murcko Scaffolds: ~ 3 min
+      Scaffold clustering and maximum common substructure calculation: max. 10 min
+      Substructure search in DrugBank: max. 20 min
+      Substructure search in CAS dataset: max. 40 min
+
+
